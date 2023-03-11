@@ -2,6 +2,12 @@ body {
     font-family: "Montserrat", sans-serif;
     background: #e5e5e5;
 }
+a:link {
+    color: rgb(47, 138, 194);
+}
+a:visited {
+    color: rgb(83, 182, 243);
+}
 .wrapper {
     display: flex;
     flex-direction: row-reverse;
